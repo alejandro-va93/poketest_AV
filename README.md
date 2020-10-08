@@ -39,7 +39,7 @@ _Esta imagen es solo una referencia y la idea es que el diseño sea completament
 
 ### API
 
-Los datos se deben obtener desde la esta API REST https://vpokeapi.co/
+Los datos se deben obtener desde la esta API REST [pokeapi](https://pokeapi.co/)
 
 ### Dependencias ya instaladas
 
