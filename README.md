@@ -68,4 +68,4 @@ Dentro de las tareas que se realizaran en algún momento están incluidas las re
 
 ### Envio del proyecto
 
-Una vez finalizado, adjunta el proyecto en un rar y envialo este correo [mario@clyc.me](mailto:mario@clyc.me).
+Una vez finalizado, adjunta el link del repositorio y envialo este correo [mario@clyc.me](mailto:mario@clyc.me).
