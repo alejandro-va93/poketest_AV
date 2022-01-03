@@ -33,7 +33,7 @@ El postulante debe desarrollar una aplicación web que cumpla las siguientes fun
 -   _Crear una página principal en donde se listen todos los pokemones_
 -   _Crear una página para que al haber clickeado a un pokemon, se desplieguen los detalles de este pokemon_ Por ej: /pokemon/4
 
-![Landing Pokemones](https://gblobscdn.gitbook.com/assets%2F-LMptEtGYdfjpl2V9mhy%2F-LZckRavRaxY4d5NDyCH%2F-LZckT7RMofWYZ4iPeo1%2Fpokedex.png?alt=media "Landing")
+![Landing Pokemones](https://external-preview.redd.it/BbzNLQJmv1z0pn4Wkb0OPsciy3ntDvctKlKLnN8aA6c.png?width=640&crop=smart&auto=webp&s=dc798f71860aac34b9d2ec1763343a2164e6bf79 "Landing")
 
 _Esta imagen es solo una referencia y la idea es que el diseño sea completamente tuyo._
 
