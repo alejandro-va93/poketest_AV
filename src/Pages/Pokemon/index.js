@@ -130,6 +130,7 @@ const Pokemon = () => {
               className="text-center"
               src={logo}
               width={["50%", "20%"]}
+              style={{ cursor: "pointer" }}
               onClick={() => navigate("/pokedex")}
             />
             <text className="barcadeFont text-center">
