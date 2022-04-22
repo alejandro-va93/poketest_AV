@@ -1,12 +1,7 @@
-.main {
-    background-color: beige;
-    height: 100%;
+.barcadeFont {
+    font-family: 'Barcade Brawl', sans-serif;
 }
 
-.mi-class {
-    background-color: #61dafb;
-}
-
-.Text-color {
-    color: red
+.options {
+    color:black;
 }
